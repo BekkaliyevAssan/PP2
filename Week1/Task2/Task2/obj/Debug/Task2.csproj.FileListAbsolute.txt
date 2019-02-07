@@ -1,0 +1,6 @@
+C:\Users\Fora\source\repos\Week1\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Fora\source\repos\Week1\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Fora\source\repos\Week1\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Fora\source\repos\Week1\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Fora\source\repos\Week1\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Fora\source\repos\Week1\Task2\Task2\obj\Debug\Task2.pdb
