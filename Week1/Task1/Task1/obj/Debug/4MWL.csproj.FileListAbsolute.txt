@@ -1,0 +1,7 @@
+c:\users\fora\source\repos\4MWL\4MWL\obj\Debug\4MWL.csprojAssemblyReference.cache
+c:\users\fora\source\repos\4MWL\4MWL\obj\Debug\4MWL.csproj.CoreCompileInputs.cache
+c:\users\fora\source\repos\4MWL\4MWL\bin\Debug\4MWL.exe.config
+c:\users\fora\source\repos\4MWL\4MWL\bin\Debug\4MWL.exe
+c:\users\fora\source\repos\4MWL\4MWL\bin\Debug\4MWL.pdb
+c:\users\fora\source\repos\4MWL\4MWL\obj\Debug\4MWL.exe
+c:\users\fora\source\repos\4MWL\4MWL\obj\Debug\4MWL.pdb
